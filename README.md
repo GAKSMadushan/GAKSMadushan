@@ -13,7 +13,6 @@
 - 📡 Interested in **routing, switching, network security, and cloud networking**
 - 📘 Currently pursuing my **CCNA certification**
 - 🧠 Learning something new about networks every day
-- ⚡ Fun fact: [something personal — e.g. "I once built a home lab out of 3 old routers"]
 
 ---
 
@@ -39,11 +38,19 @@
 
 ### 📂 Featured Projects
 
-- 🔹 **[Project Name]** — Designed and simulated a multi-VLAN campus network with inter-VLAN routing in Cisco Packet Tracer.
-- 🔹 **[Project Name]** — Captured and analyzed network traffic using Wireshark to identify protocol behavior and latency issues.
-- 🔹 **[Project Name]** — [Short description of another lab, home project, or coursework assignment]
+**🔀 Enterprise Network Design & Security Lab**
+Building a simulated enterprise network in Cisco Packet Tracer that combines what I'm learning across my Advanced Routing & Switching, Network Security, and Service Provider Systems modules.
 
-*(Replace with links to your actual repos: `[Project Name](https://github.com/your-username/repo-name)`)*
+- Designing a multi-site topology with VLANs, inter-VLAN routing, and OSPF
+- Applying ACLs and basic firewall rules for network security
+- Testing traffic flow and troubleshooting with Wireshark
+- Status: 🔨 *in progress — repo coming soon*
+
+> Once finished, this will be pushed to GitHub and linked here with configs and a full write-up.
+
+- 📖 Studying for my **CCNA certification**
+- 🧪 Practicing network design and routing/switching labs in **Cisco Packet Tracer**
+- 🔍 Getting hands-on with **Wireshark** to understand packet-level traffic
 
 ---
 
