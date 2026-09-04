@@ -36,7 +36,7 @@
 
 ---
 
-### 📂 Featured Projects
+### 🚧 Project In Progress
 
 **🔀 Enterprise Network Design & Security Lab**
 Building a simulated enterprise network in Cisco Packet Tracer that combines what I'm learning across my Advanced Routing & Switching, Network Security, and Service Provider Systems modules.
@@ -44,9 +44,9 @@ Building a simulated enterprise network in Cisco Packet Tracer that combines wha
 - Designing a multi-site topology with VLANs, inter-VLAN routing, and OSPF
 - Applying ACLs and basic firewall rules for network security
 - Testing traffic flow and troubleshooting with Wireshark
-- Status: 🔨 *in progress — repo coming soon*
+- Status: 🔨 *in progress 
 
-> Once finished, this will be pushed to GitHub and linked here with configs and a full write-up.
+
 
 - 📖 Studying for my **CCNA certification**
 - 🧪 Practicing network design and routing/switching labs in **Cisco Packet Tracer**
@@ -57,8 +57,8 @@ Building a simulated enterprise network in Cisco Packet Tracer that combines wha
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GAKSMadushan&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAKSMadushan&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
