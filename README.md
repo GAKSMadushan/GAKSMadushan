@@ -56,10 +56,7 @@ Building a simulated enterprise network in Cisco Packet Tracer that combines wha
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAKSMadushan&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAKSMadushan&theme=default" alt="GitHub Streak" height="165"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GAKSMadushan&show_icons=true&theme=default" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAKSMadushan&theme=default" alt="GitHub Streak" height="165"/> </p>
 
 ---
 
