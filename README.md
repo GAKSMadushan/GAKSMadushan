@@ -62,10 +62,7 @@ Building a simulated enterprise network in Cisco Packet Tracer that combines wha
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="www.linkedin.com/in/kavishka-sudesh-46b26b387"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="kavishkasudesh0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<p align="left"> <a href="https://linkedin.com/in/kavishka-sudesh-46b26b387"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:kavishkasudesh0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p align="center"><i>Thanks for stopping by — always open to networking (pun intended) and collaboration!</i></p>
 
 <p align="center"><i>Thanks for stopping by — always open to networking (pun intended) and collaboration!</i></p>
 
